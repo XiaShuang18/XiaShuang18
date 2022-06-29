@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XiaShuang18
-- 👀 I’m interested in Java C#
-- 🌱 I’m currently learning ABP SpringCloud 
+- 👀 I’m interested in Java 
+- 🌱 I’m currently learning  SpringCloud 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
